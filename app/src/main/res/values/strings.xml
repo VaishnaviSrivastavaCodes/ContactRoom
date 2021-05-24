@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Contact Room</string>
+    <string name="name_hint" > Enter Name </string>
+    <string name="occupation_hint">Enter Occupation</string>
+    <string name="empty_fields">Enter information.</string>
+    <string name="plus_description">Plus Button Icon</string>
+    <string name="no_contacts_text">You do not have any contacts.</string>
 </resources>
